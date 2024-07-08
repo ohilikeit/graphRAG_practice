@@ -54,3 +54,4 @@ Thumbs.db
 # etc
 test*
 run.sh
+.env
